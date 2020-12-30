@@ -1,0 +1,98 @@
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\match_3.exe.config
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\match_3.exe.manifest
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\match_3.application
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\match_3.exe
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\match_3.pdb
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\ControlzEx.dll
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\MahApps.Metro.dll
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\System.Windows.Interactivity.dll
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\ControlzEx.pdb
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\MahApps.Metro.pdb
+G:\Downloads\match_3_1\match_3-master\match_3\bin\Debug\MahApps.Metro.xml
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.csprojAssemblyReference.cache
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\GameInterface.g.cs
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\GameOver.g.cs
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\MainMenu.g.cs
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\MainWindow.g.cs
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\App.g.cs
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3_MarkupCompile.cache
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3_MarkupCompile.lref
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\App.baml
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\GameInterface.baml
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\GameOver.baml
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\MainMenu.baml
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\MainWindow.baml
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.g.resources
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.Properties.Resources.resources
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.csproj.GenerateResource.cache
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.csproj.CoreCompileInputs.cache
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.exe.manifest
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.application
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.csproj.CopyComplete
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.exe
+G:\Downloads\match_3_1\match_3-master\match_3\obj\Debug\match_3.pdb
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\match_3.exe.config
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\match_3.exe.manifest
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\match_3.application
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\match_3.exe
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\match_3.pdb
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\ControlzEx.dll
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\MahApps.Metro.dll
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\System.Windows.Interactivity.dll
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\ControlzEx.pdb
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\MahApps.Metro.pdb
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\bin\Debug\MahApps.Metro.xml
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.csprojAssemblyReference.cache
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\GameInterface.g.cs
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\GameOver.g.cs
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\MainMenu.g.cs
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\MainWindow.g.cs
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\App.g.cs
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3_MarkupCompile.cache
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3_MarkupCompile.lref
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\App.baml
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\GameInterface.baml
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\GameOver.baml
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\MainMenu.baml
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\MainWindow.baml
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.g.resources
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.Properties.Resources.resources
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.csproj.GenerateResource.cache
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.csproj.CoreCompileInputs.cache
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.exe.manifest
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.application
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.csproj.CopyComplete
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.exe
+G:\All_Sorted_Projects\C#\3_в_ряд\match_3_1\match_3\match_3\obj\Debug\match_3.pdb
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.csprojAssemblyReference.cache
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\GameInterface.g.cs
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\GameOver.g.cs
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\MainMenu.g.cs
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\App.g.cs
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3_MarkupCompile.cache
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3_MarkupCompile.lref
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.exe
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.pdb
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\match_3.exe.config
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\match_3.exe.manifest
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\match_3.application
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\match_3.exe
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\match_3.pdb
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\ControlzEx.dll
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\MahApps.Metro.dll
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\System.Windows.Interactivity.dll
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\ControlzEx.pdb
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\MahApps.Metro.pdb
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\bin\Debug\MahApps.Metro.xml
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\MainWindow.g.cs
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\App.baml
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\GameInterface.baml
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\GameOver.baml
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\MainMenu.baml
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\MainWindow.baml
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.g.resources
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.Properties.Resources.resources
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.csproj.GenerateResource.cache
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.exe.manifest
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.application
+F:\Файлы\работы семёна\Универ\2 курс\ПиОГИ\Курсова\match_3\obj\Debug\match_3.csproj.CopyComplete
